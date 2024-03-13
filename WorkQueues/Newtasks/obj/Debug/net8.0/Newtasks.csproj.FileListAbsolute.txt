@@ -1,0 +1,17 @@
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/bin/Debug/net8.0/Newtasks
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/bin/Debug/net8.0/Newtasks.deps.json
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/bin/Debug/net8.0/Newtasks.runtimeconfig.json
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/bin/Debug/net8.0/Newtasks.dll
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/bin/Debug/net8.0/Newtasks.pdb
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.csproj.AssemblyReference.cache
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.AssemblyInfoInputs.cache
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.AssemblyInfo.cs
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.csproj.CoreCompileInputs.cache
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.csproj.Up2Date
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.dll
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/refint/Newtasks.dll
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.pdb
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/Newtasks.genruntimeconfig.cache
+/home/bbeluco/Documents/Programming/RabbitMQCSharp/WorkQueues/Newtasks/obj/Debug/net8.0/ref/Newtasks.dll
