@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogShow", "LogShow\LogShow.csproj", "{2BED9824-92F6-4F5E-B681-433358553C65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogCreation", "LogCreation\LogCreation.csproj", "{E863BB3F-8F77-409A-BF6E-3D09C6F18DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BED9824-92F6-4F5E-B681-433358553C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BED9824-92F6-4F5E-B681-433358553C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BED9824-92F6-4F5E-B681-433358553C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BED9824-92F6-4F5E-B681-433358553C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E863BB3F-8F77-409A-BF6E-3D09C6F18DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E863BB3F-8F77-409A-BF6E-3D09C6F18DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E863BB3F-8F77-409A-BF6E-3D09C6F18DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E863BB3F-8F77-409A-BF6E-3D09C6F18DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE757AC-2307-450F-BC0C-C1A6F4F2491B}
+	EndGlobalSection
+EndGlobal

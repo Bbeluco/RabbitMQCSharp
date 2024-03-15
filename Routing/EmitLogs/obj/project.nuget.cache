@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGJTzjC0soir2MTK6SdVF9yscMnkMdjbFJIZdWWnO6b8LbntIcXP3hb4DPHG24qTGZeTT12kk2zxDVV70kd/5Q==",
+  "success": true,
+  "projectFilePath": "/home/bbeluco/Documents/Programming/RabbitMQCSharp/Routing/EmitLogs/EmitLogs.csproj",
+  "expectedPackageFiles": [
+    "/home/bbeluco/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/bbeluco/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/bbeluco/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
